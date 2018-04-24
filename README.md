@@ -12,7 +12,7 @@ ExpReg.m
 This function implements the explicit regression model.
 
 CovM.m
-This function implements the common variable model.
+This function implements the covariance model.
 
 Common.m
 This function implements the common variable model.
